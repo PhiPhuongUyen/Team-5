@@ -56,7 +56,6 @@
                 margin-bottom: 15px;
                 margin-left: 4cm;
                 color:black;
-
             }
             .content h2 {
                 font-size: 60px;
@@ -64,7 +63,6 @@
                 margin-top: 15px;
                 margin-bottom: 15px;
                 color:black;
-
             }
             .content p{
                 font-size: 25px;
