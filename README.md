@@ -11,7 +11,7 @@
                     <img src="https://mao-nek.000webhostapp.com/index.html/Nh%C3%B3m%202/logo.png" alt="Logo" class="logo">
                     <nav>
                         <ul id="menu">
-                            <li><a href="[https://mao-nek.000webhostapp.com/index.html/Nh%C3%B3m%202/PHINEAS.html](https://github.com/PhiPhuongUyen/Team-5/blob/main/Nh%C3%B3m%205%20Final.ipynb)">Trang chủ</a></li>
+                            <li><a href="https://github.com/PhiPhuongUyen/Team-5/blob/main/Nh%C3%B3m%205%20Final.ipynb)">Trang chủ</a></li>
                             <li><a href="https://github.com/PhiPhuongUyen/Team-5/blob/main/Scatter%20chart.ipynb">Scatter chart</a></li>
                             <li><a href="https://github.com/PhiPhuongUyen/Team-5/blob/main/Bar%20chart.ipynb">Bar chart</a></li>
                             <li><a href="https://github.com/PhiPhuongUyen/Team-5/blob/main/Pie%20chart.ipynb">Pie chart</a></li>
