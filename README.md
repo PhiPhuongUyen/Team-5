@@ -55,6 +55,15 @@
                     </br>
                     </br>
                     The scatterplot chart is used to analyze and compare the scores of the home team and the away team in matches.
+                    
+                    Each point on the chart represents a match, with the X-axis representing the home team's score and the Y-axis
+                    representing the away team's score. By observing the density of points on the chart and the distribution pattern
+                    of those points, we can assess the level of correlation between the scores of the home team and the away team.
+                    From the chart, we can see that the points do not have a particular shape (such as straight lines or diagonals line).
+                    Although they are mostly concentrated towards the bottom, there are still many scattered points throughout the chart
+                    that do not follow a specific rule, making it impossible to determine the direction of the points clearly. Therefore,
+                    based on the chart, we can conclude that the number of goals scored and the number of losses for the teams do not have
+                    a correlation and do not affect each other.
                 </code>
             </pre>
         </div>
@@ -98,6 +107,13 @@
                     </br>
                     </br>
                     The column chart above is the average monthly goals statistics of the five teams with the most total matches from 1872 to September 12, 2023.
+
+                     There are columns here about the number of goals scored and the number of goals lost by the teams, team names, average score, two columns
+                     with two different colors for easy distinction. The goals conceded are only around 1.0. goals up to 2.5 This chart allows you to compare
+                     the number of goals scored between different teams or players in a specific time frame. You can identify outstanding teams or players with
+                     excellent scoring ability. For example, in Brazil and Germany. Depending on your specific goals and the data you have, you can conduct more
+                     detailed analysis such as identifying the players who scored the most goals, creating a chart showing changes over time, or comparing performance.
+                     scores of teams in different seasons.
                 </code>
             </pre>
         </div>
@@ -135,6 +151,15 @@
                     </br>
                     </br>
                     The pie chart shows the distribution rates of different tournaments.
+
+                     Each patch in the chart represents a tournament, and the area of the patch represents the ratio
+                     (percentage) of that tournament to the total number of tournaments. By looking at the chart, 
+                     you can look at each league's percentage and see which leagues have the largest and smallest percentages.
+                     You can determine the most popular tournament by looking at the piece with the largest area in the chart.
+                     The slice representing this league has the highest percentage, showing that that league has a larger number
+                     of teams than the other leagues in the data set. By comparing the area of the pieces in the chart, you can
+                     see the difference in distribution between tournaments. Larger pieces represent tournaments with more numbers,
+                     while smaller pieces represent tournaments with fewer numbers.
                 </code>
             </pre>
         </div>
@@ -171,6 +196,14 @@
                     </br>
                     </br>
                     The chart above shows the points scored and points conceded by the Brazilian team in matches after 2022.
+
+                    The x-axis represents the month and year, while the y-axis represents the number of points.
+                    The red line (-r) represents the number of points scored by the Brazilian team in each month.
+                    The dotted black line (':k') represents the number of points conceded by the team.
+                    The graph shows the evolution of points scored and points conceded over time for the Brazilian team.
+                    And the data from the chart shows that the number of goals scored by the Brazilian team is almost
+                    always greater than the number of goals conceded. Therefore, it can be seen that this is a very strong
+                    team and its odds of being in the top are hard to argue with.
                 </code>
             </pre>
         </div>
