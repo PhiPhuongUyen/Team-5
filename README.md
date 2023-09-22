@@ -214,7 +214,7 @@
                     Firstly,brazil with the highest total goals and lowest goal concede, this  is strongest team from 2013-2023.
                     In other words, brazillian has dominated this eras of football.  Secondly, the friendly match has the highest
                     concerned throughout the tournament distribution therefore the team could focus more on training in friendly match. 
-                    Lastly, it is easier to score when the team is on the host
+                    Lastly, it is easier to score when the team is on the hometeam
                 </code>
         </div>
 </body>
