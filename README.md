@@ -217,5 +217,5 @@
                     Lastly, it is easier to score when the team is on the host
                 </code>
         </div>
-        </body>
+</body>
 </html>
