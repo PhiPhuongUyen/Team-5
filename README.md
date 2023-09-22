@@ -27,7 +27,7 @@
             </div>
         </div>
         <div class="section">
-            <h>Scatter chart</h>
+            <h2>Scatter chart</h2>
             <pre class="highlight">
                 <code class="python">
                     import plotly.express as px
@@ -68,7 +68,7 @@
             <img src="https://github.com/Mao2003/Mao2003/blob/main/scatterchart.png?raw=true">
         </div>
         <div class="section">
-            <h>Bar chart</h>
+            <h2>Bar chart</h2>
             <pre class="highlight">
                 <code class="python">
                     import plotly.express as px
@@ -105,20 +105,20 @@
                     plt.show()
                     
                     
-                    The column chart above is the average monthly goals statistics of the five teams with the most total matches from 1872 to September 12, 2023.
+                    <p>The column chart above is the average monthly goals statistics of the five teams with the most total matches from 1872 to September 12, 2023.
 
                      There are columns here about the number of goals scored and the number of goals lost by the teams, team names, average score, two columns
                      with two different colors for easy distinction. The goals conceded are only around 1.0. goals up to 2.5 This chart allows you to compare
                      the number of goals scored between different teams or players in a specific time frame. You can identify outstanding teams or players with
                      excellent scoring ability. For example, in Brazil and Germany. Depending on your specific goals and the data you have, you can conduct more
                      detailed analysis such as identifying the players who scored the most goals, creating a chart showing changes over time, or comparing performance.
-                     scores of teams in different seasons.
+                     scores of teams in different seasons.</p>
                 </code>
             </pre>
             <img src="https://github.com/PhiPhuongUyen/Team-5/blob/main/379611435_242192875055863_6915571824627483977_n.png?raw=true">
         </div>
         <div class="section">
-            <h>Pie chart</h>
+            <h2>Pie chart</h2>
             <pre class="highlight">
                 <code class="python">
                     import plotly.express as px
@@ -164,7 +164,7 @@
             <img src="https://github.com/Mao2003/Mao2003/blob/main/piechart.png?raw=true">
         </div>
         <div class="section">
-            <h>Line chart</h>
+            <h2>Line chart</h2>
             <pre class="highlight">
                 <code class="python">
                     import plotly.express as px
@@ -208,13 +208,13 @@
             <img src="https://github.com/Mao2003/Mao2003/blob/main/linechart.png?raw=true">
         </div>
         <div class="section">
-            <h>Conclusion</h>
+            <h2>Conclusion</h2>
             <pre class="highlight">
                 <code class="python">
                     Firstly,brazil with the highest total goals and lowest goal concede, this  is strongest team from 2013-2023.
                     In other words, brazillian has dominated this eras of football.  Secondly, the friendly match has the highest
                     concerned throughout the tournament distribution therefore the team could focus more on training in friendly match. 
-                    Lastly, it is easier to score when the team is on the hometeam
+                    Lastly, it is easier to score when the team is on the host
                 </code>
         </div>
 </body>
