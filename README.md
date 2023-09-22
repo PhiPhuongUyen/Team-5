@@ -52,8 +52,8 @@
                     plt.xlabel("Home score")
                     plt.title("Relationship between points scored and points conceded")
                     plt.show()
-                    </br>
-                    </br>
+                    
+                    
                     The scatterplot chart is used to analyze and compare the scores of the home team and the away team in matches.
                     
                     Each point on the chart represents a match, with the X-axis representing the home team's score and the Y-axis
@@ -104,8 +104,8 @@
                     plt.xticks(x, categories)
                     plt.legend()
                     plt.show()
-                    </br>
-                    </br>
+                    
+                    
                     The column chart above is the average monthly goals statistics of the five teams with the most total matches from 1872 to September 12, 2023.
 
                      There are columns here about the number of goals scored and the number of goals lost by the teams, team names, average score, two columns
@@ -148,8 +148,8 @@
                     plt.savefig('pie_chart.png')
                                 
                     plt.show()
-                    </br>
-                    </br>
+                    
+                    
                     The pie chart shows the distribution rates of different tournaments.
 
                      Each patch in the chart represents a tournament, and the area of the patch represents the ratio
@@ -193,8 +193,8 @@
                     plt.xticks(rotation=45)
                     plt.legend()
                     plt.show()
-                    </br>
-                    </br>
+                    
+                    
                     The chart above shows the points scored and points conceded by the Brazilian team in matches after 2022.
 
                     The x-axis represents the month and year, while the y-axis represents the number of points.
