@@ -27,7 +27,6 @@
             </div>
         </div>
         <div class="section">
-            <img src="https://github.com/Mao2003/Mao2003/blob/main/scatterchart.png?raw=true">
             <h>Scatter chart</h>
             <pre class="highlight">
                 <code class="python">
@@ -66,9 +65,9 @@
                     a correlation and do not affect each other.
                 </code>
             </pre>
+            <img src="https://github.com/Mao2003/Mao2003/blob/main/scatterchart.png?raw=true">
         </div>
         <div class="section">
-            <img src="https://github.com/PhiPhuongUyen/Team-5/blob/main/379611435_242192875055863_6915571824627483977_n.png?raw=true">
             <h>Bar chart</h>
             <pre class="highlight">
                 <code class="python">
@@ -116,9 +115,9 @@
                      scores of teams in different seasons.
                 </code>
             </pre>
+            <img src="https://github.com/PhiPhuongUyen/Team-5/blob/main/379611435_242192875055863_6915571824627483977_n.png?raw=true">
         </div>
         <div class="section">
-            <img src="https://github.com/Mao2003/Mao2003/blob/main/piechart.png?raw=true">
             <h>Pie chart</h>
             <pre class="highlight">
                 <code class="python">
@@ -162,9 +161,9 @@
                      while smaller pieces represent tournaments with fewer numbers.
                 </code>
             </pre>
+            <img src="https://github.com/Mao2003/Mao2003/blob/main/piechart.png?raw=true">
         </div>
         <div class="section">
-            <img src="https://github.com/Mao2003/Mao2003/blob/main/linechart.png?raw=true">
             <h>Line chart</h>
             <pre class="highlight">
                 <code class="python">
@@ -206,6 +205,7 @@
                     team and its odds of being in the top are hard to argue with.
                 </code>
             </pre>
+            <img src="https://github.com/Mao2003/Mao2003/blob/main/linechart.png?raw=true">
         </div>
         </body>
 </html>
