@@ -216,6 +216,7 @@
                     concerned throughout the tournament distribution therefore the team could focus more on training in friendly match. 
                     Lastly, it is easier to score when the team is on the host
                 </code>
+            </pre>
         </div>
 </body>
 </html>
