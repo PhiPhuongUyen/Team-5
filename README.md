@@ -23,7 +23,7 @@
             <div class="content">
                 <h2>We are</h2>
                 <h1>Group 5</h1>
-                <p>Group 5 has six members: Phi Phuong Uyen, Dinh Xuan Lam, Nguyen Quynh Anh, Nguyen Duc Hai, Nguyen Quang Huy, Nguyen Khanh Ly. We are all students of class MAS1, the management and security major of the school of management and business. This is our team web where we will analyze for you "The global football tournament from 1872 to 2023" and through that, we want to show you which team is the strongest team.</p>
+                <p>Group 5 has six members: Phi Phuong Uyen, Dinh Xuan Lam, Nguyen Quynh Anh, Nguyen Duc Hai, Nguyen Quang Huy, Nguyen Dang Khanh Ly. We are all students of class MAS1, the management and security major of the school of management and business. This is our team web where we will analyze for you "The global football tournament from 1872 to 2023" and through that, we want to show you which team is the strongest team.</p>
             </div>
         </div>
         <div class="section">
