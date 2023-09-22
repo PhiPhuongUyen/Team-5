@@ -59,7 +59,7 @@
             </pre>
         </div>
         <div class="section">
-            <img src="https://github.com/Mao2003/Mao2003/blob/main/barchart.png?raw=true">
+            <img src="https://github.com/PhiPhuongUyen/Team-5/blob/main/379611435_242192875055863_6915571824627483977_n.png?raw=true">
             <h>Bar chart</h>
             <pre class="highlight">
                 <code class="python">
